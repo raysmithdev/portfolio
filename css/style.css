@@ -1162,6 +1162,26 @@ main {
   position: absolute;
 }
 
+.social-icon {
+  margin-right: 15px;
+}
+
+.fa-twitter {
+  color: #0084FF;
+}
+
+.fa-linkedin {
+  color: #0077B5;
+}
+
+.fa-facebook {
+  color: #3B5998;
+}
+
+.fa-github {
+  color: #6cc644;
+}
+
 #modalAppointment .modal-content {
   border-radius: 0;
   border: none;
